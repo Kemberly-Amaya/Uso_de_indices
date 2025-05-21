@@ -1,0 +1,209 @@
+[{
+  "_id": {
+    "$oid": "682d5851624e1685b66e7463"
+  },
+  "nombre": "Carolina Suárez",
+  "edad": 29,
+  "ciudad": "San Salvador",
+  "correo": "carolina123@unab.com",
+  "cargo": "Desarrolladora Backend",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e7464"
+  },
+  "nombre": "Juan Pérez",
+  "edad": 35,
+  "ciudad": "Santa Ana",
+  "correo": "juan456@unab.com",
+  "cargo": "Desarrollador Frontend",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e7465"
+  },
+  "nombre": "María Gómez",
+  "edad": 42,
+  "ciudad": "Soyapango",
+  "correo": "maria789@unab.com",
+  "cargo": "Gerente de Proyectos",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e7466"
+  },
+  "nombre": "Luis Rodríguez",
+  "edad": 30,
+  "ciudad": "San Miguel",
+  "correo": "luis001@unab.com",
+  "cargo": "Diseñador UX/UI",
+  "departamento": "Diseño"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e7467"
+  },
+  "nombre": "Ana Martínez",
+  "edad": 27,
+  "ciudad": "Mejicanos",
+  "correo": "ana002@unab.com",
+  "cargo": "Analista de Datos",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e7468"
+  },
+  "nombre": "Santiago López",
+  "edad": 33,
+  "ciudad": "Apopa",
+  "correo": "santiago003@unab.com",
+  "cargo": "Administrador de Sistemas",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e7469"
+  },
+  "nombre": "Laura Torres",
+  "edad": 25,
+  "ciudad": "San Marcos",
+  "correo": "laura004@unab.com",
+  "cargo": "Redactora Técnica",
+  "departamento": "Comunicación"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e746a"
+  },
+  "nombre": "Ricardo Fernández",
+  "edad": 39,
+  "ciudad": "Colón",
+  "correo": "ricardo005@unab.com",
+  "cargo": "Ingeniero de Software",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e746b"
+  },
+  "nombre": "Paula Ramírez",
+  "edad": 31,
+  "ciudad": "Ilopango",
+  "correo": "paula006@unab.com",
+  "cargo": "Especialista en Marketing",
+  "departamento": "Marketing"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e746c"
+  },
+  "nombre": "Andrés Méndez",
+  "edad": 29,
+  "ciudad": "Sonsonate",
+  "correo": "andres007@unab.com",
+  "cargo": "Analista Financiero",
+  "departamento": "Finanzas"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e746d"
+  },
+  "nombre": "Beatriz Herrera",
+  "edad": 40,
+  "ciudad": "Ahuachapán",
+  "correo": "beatriz008@unab.com",
+  "cargo": "Gerente de RRHH",
+  "departamento": "Recursos Humanos"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e746e"
+  },
+  "nombre": "Fernando Castro",
+  "edad": 28,
+  "ciudad": "La Libertad",
+  "correo": "fernando009@unab.com",
+  "cargo": "Consultor de Negocios",
+  "departamento": "Consultoría"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e746f"
+  },
+  "nombre": "Gabriela Medina",
+  "edad": 26,
+  "ciudad": "Cojutepeque",
+  "correo": "gabriela010@unab.com",
+  "cargo": "Investigadora UX",
+  "departamento": "Diseño"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e7470"
+  },
+  "nombre": "Jorge Álvarez",
+  "edad": 37,
+  "ciudad": "Zacatecoluca",
+  "correo": "jorge011@unab.com",
+  "cargo": "Gerente de Ventas",
+  "departamento": "Ventas"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e7471"
+  },
+  "nombre": "Mónica Ramírez",
+  "edad": 32,
+  "ciudad": "San Vicente",
+  "correo": "monica012@unab.com",
+  "cargo": "Especialista en SEO",
+  "departamento": "Marketing"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e7472"
+  },
+  "nombre": "Oscar Salazar",
+  "edad": 34,
+  "ciudad": "Usulután",
+  "correo": "oscar013@unab.com",
+  "cargo": "Ingeniero DevOps",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e7473"
+  },
+  "nombre": "Patricia Jiménez",
+  "edad": 41,
+  "ciudad": "Jiquilisco",
+  "correo": "patricia014@unab.com",
+  "cargo": "Psicóloga Organizacional",
+  "departamento": "Recursos Humanos"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e7474"
+  },
+  "nombre": "Raúl Guzmán",
+  "edad": 38,
+  "ciudad": "La Unión",
+  "correo": "raul015@unab.com",
+  "cargo": "Gerente Financiero",
+  "departamento": "Finanzas"
+},
+{
+  "_id": {
+    "$oid": "682d5851624e1685b66e7475"
+  },
+  "nombre": "Silvia Paredes",
+  "edad": 36,
+  "ciudad": "Chalatenango",
+  "correo": "silvia016@unab.com",
+  "cargo": "Estratega Digital",
+  "departamento": "Marketing"
+}]
